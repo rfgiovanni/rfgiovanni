@@ -2,4 +2,4 @@
 
 Hi! I am Giovanni Rodríguez-Fernández, a **PhD student in Economics** at Complutense University of Madrid. I am working on policy evaluation at the Department of Applied and Public Economics, and Political Economy.
 
-Previously on AIReF, IEF, UC3M and UVigo.
+Previously at AIReF, IEF, UC3M and UVigo.
